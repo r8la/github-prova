@@ -1,2 +1,2 @@
-# github-slideshow
-A robot powered training repository :robot:
+# github-prova
+Una repository per capire quanto so usare GitHub
